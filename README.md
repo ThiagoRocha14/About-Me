@@ -16,7 +16,3 @@ Here's a glimpse of my toolkit:
 - **APIs & Formats:** RESTful API, JSON Parsing
 - **Programming Paradigm:** Object-Oriented Programming (OOP)
 - **Architecture:** Model-View-Controller (MVC)
-
-### Contacts:
-thiagormnb@gmail.com<br>
-<a href="https://www.linkedin.com/in/thiago-rocha-4b77491bb/detail/contact-info/">Linkedin</a>
