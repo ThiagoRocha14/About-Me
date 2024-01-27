@@ -1,11 +1,22 @@
-# About-Me
-Olá, sou Thiago Rocha, tenho 21 anos, sou formado em Técnico em Informática pelo IFF e atualmente graduando Sistemas de Informação pelo mesmo instituto. Trabalho atuando como desenvolvedor WEB Fullstack, com conhecimentos em PHP, Javascript, CSS, e alguns de seus frameworks, tendo experiência principalmente com Laravel, Angular e Vue.
+## Hello, World! 👋
 
-Tenho experiência também na área de migração de banco de dados e DBA em geral. Adquirindo conhecimento principalmente em Mysql e Firebird.
+### About Me
 
-Atualmente também utilizo de container para o desenvolvimento dos projetos profissionais, tendo assim experiências com Docker e Linux.
+Hey there! I'm a **Full Stack Web Developer** with a burning passion for programming. At the ripe age of 22, I've been immersed in the world of development since the tender age of 15. Graduating from the prestigious Federal Institute of Rio de Janeiro State (IFF), I embarked on my web development journey in 2021. Since then, I've realized that crafting code is not just a job—it's my dream profession. The sheer joy of creating new features, tackling complex problems, and influencing lives with just a few lines of code is what drives me every single day. There's an indescribable satisfaction in watching your code come to life and make a tangible impact on individuals' lives.
 
-Existe outras áreas a qual já tive contato através da faculdade, ou pequenos contatos profissionais, como Delphi, Java, Java Mobile, Firebase.
-# Contatos:
+### Skills & Technologies
+
+Here's a glimpse of my toolkit:
+
+- **Languages:** PHP, JavaScript, TypeScript
+- **Frameworks:** Laravel, Angular, Vue.js
+- **Markup & Styling:** HTML, CSS, SCSS
+- **Databases:** MySQL, Firebird
+- **DevOps & Tools:** Docker, Linux, Git, GitHub
+- **APIs & Formats:** RESTful API, JSON Parsing
+- **Programming Paradigm:** Object-Oriented Programming (OOP)
+- **Architecture:** Model-View-Controller (MVC)
+
+### Contacts:
 thiagormnb@gmail.com<br>
 <a href="https://www.linkedin.com/in/thiago-rocha-4b77491bb/detail/contact-info/">Linkedin</a>
